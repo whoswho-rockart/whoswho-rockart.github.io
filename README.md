@@ -1,12 +1,10 @@
 
-#
-Who’s Who in Rock-art (wwr)
+# Who’s Who in Rock-art (wwr)
 
 the changing world of rock-art studies  
 people, what they do and where
 
-##
-introduction
+## introduction
 
 The Centro Camuno di Studi Preistorici (CCSP) published the
 first edition of “Who’s Who in Rock Art” in 1985 followed by
@@ -74,8 +72,7 @@ and query JSON.
 Please copy and complete wwr3 questionnaire and bibliography templates and
 send them to [`whoswho.rockart (at) gmail.com`](mailto:whoswho.rockart).
 
-##
-wwr3 templates
+## wwr3 templates
 
 [`main questionaire`](main.yaml)  
 [`book`](book.yaml)  
